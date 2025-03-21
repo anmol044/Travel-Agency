@@ -1157,7 +1157,7 @@ body {
 }
 
 .register-btn {
-    background: var(--white);
+    background: var(--);
     color: var(--primary-color);
 }
 
